@@ -44,7 +44,7 @@ namespace Calculatrice
 
         private void plus_moins_Click(object sender, EventArgs e)
         {
-
+            
         }
 
         private void deux_Click(object sender, EventArgs e)
