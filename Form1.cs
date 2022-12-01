@@ -19,8 +19,8 @@ namespace Calculatrice
 
         private void Egale_Click(object sender, EventArgs e)
         {
-            textBox1.Text = textBox1.Text + "=";
-        }
+            textBox1.Text = textBox1.Text + "=";  
+            }
 
         private void virgule_Click(object sender, EventArgs e)
         {
@@ -141,7 +141,6 @@ namespace Calculatrice
         {
 
         }
-
         private void moins_Click(object sender, EventArgs e)
         {
             textBox1.Text = textBox1.Text + "-";
