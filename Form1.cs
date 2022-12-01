@@ -119,12 +119,12 @@ namespace Calculatrice
 
         private void efface_Click(object sender, EventArgs e)
         {
-
+            this.textBox1.Text = string.Empty;
         }
 
         private void efface_tout_Click(object sender, EventArgs e)
         {
-
+            this.textBox1.Text = string.Empty;
         }
 
         private void efface_expression_Click(object sender, EventArgs e)
